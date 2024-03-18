@@ -5,5 +5,6 @@ public class Arithmatic {
         System.out.println("Multiplication is " + (a * b));
         System.out.println("Division is " + (a / b));
         System.out.println("Substraction is " + (a - b));
+        System.out.println("Modulus is " + (a % b));
     }
 }
