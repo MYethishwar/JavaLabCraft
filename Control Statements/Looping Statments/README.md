@@ -1,7 +1,8 @@
-```
+
 # Java Looping Statements
 
 In Java, looping statements are used to execute a block of code repeatedly based on a specified condition. There are mainly three types of looping statements in Java: `for`, `while`, and `do-while`.
+
 
 ## 1. `for` Loop
 
