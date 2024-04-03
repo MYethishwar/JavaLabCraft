@@ -10,7 +10,7 @@ The `if` statement checks a condition and executes a block of code if the condit
 ```java
 if (condition) {
     // Code to be executed if condition is true
-}
+}```java
 
 ## 2. `else if` Statement
 
@@ -20,7 +20,7 @@ The `else if` statement allows you to check multiple conditions after the initia
 ```java
 else if (condition) {
     // Code to be executed if condition is true
-}
+}```java
 
 ## 3. `else` Statement
 
@@ -30,4 +30,4 @@ The `else` statement is used to execute a block of code if none of the preceding
 ```java
 else {
     // Code to be executed if no condition is true
-}
+}```java
